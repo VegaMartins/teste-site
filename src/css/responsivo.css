@@ -24,6 +24,29 @@
 
 }
 
+@media (min-width: 1280px) {
+
+    html {
+        zoom: 75%;
+    }
+
+    .cabecalho {
+        padding-bottom: 55px;
+
+    }
+
+    .home {
+        padding-top: 55px;
+
+        padding-bottom: 70px;
+    }
+
+
+
+}
+
+
+
 @media(max-width: 425px) {
     .home .informacoes h1 {
         font-size: 30px;
